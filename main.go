@@ -64,7 +64,7 @@ func main() {
 		GraphiQL: true,
 	})
 
-	http.Handle("/", h)
+	http.Handle("/graphql", h)
 
 	log.Print("Starting listener at port ", port)
 	http.ListenAndServe(":"+port, nil)
