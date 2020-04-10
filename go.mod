@@ -1,4 +1,4 @@
-module github.com/heroku/go-getting-started
+module https://github.com/k-jingyang/graphql-playground
 
 go 1.12
 
