@@ -1,4 +1,4 @@
-module https://github.com/k-jingyang/graphql-playground
+module github.com/k-jingyang/graphql-playground
 
 go 1.12
 
